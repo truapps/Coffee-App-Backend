@@ -2,8 +2,6 @@
     Coffee shop Back-end
 </h1>
 
----
-
 ## Technologies
 
 - [Node.js](https://github.com/nodejs/node)

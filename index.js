@@ -14,7 +14,7 @@ start();
 
 async function start() {
     try {
-        let url = `mongodb+srv://${dbConfig.username}:${dbConfig.password}@cluster0.r5oer.mongodb.net/${dbConfig.dbName}`;
+        let url = `mongodb+srv://${dbConfig.username}:${dbConfig.password}@cluster.7u040.mongodb.net/${dbConfig.dbName}`;
         await mongoose.connect(url, {
             useNewUrlParser: true,
             useUnifiedTopology: true,

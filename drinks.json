@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884c8"
+  },
+  "name": "Espresso",
+  "shortDescription": "Italian origin coffee, containing boiling water with coffee beans",
+  "longDescription": "Espresso is a coffee-making method of Italian origin, in which a small amount of nearly boiling water is forced under pressure (expressed) through finely-ground coffee beans.",
+  "prices": {
+    "smallSize": 1.8,
+    "mediumSize": 2,
+    "bigSize": null
+  },
+  "image": "espresso.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884c9"
+  },
+  "name": "Americano",
+  "shortDescription": "It's a type of coffee drink prepared by diluting an espresso with hot water ",
+  "longDescription": "Americano is a type of coffee drink prepared by diluting an espresso with hot water, giving it a similar strength to, but different flavor from, traditionally brewed coffee. The strength of an Americano varies with the number of shots of espresso and the amount of water added.",
+  "prices": {
+    "smallSize": 2,
+    "mediumSize": 2.35,
+    "bigSize": null
+  },
+  "image": "americano.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884ca"
+  },
+  "name": "Cappuccino",
+  "shortDescription": "Espresso-based coffee drink prepared with steamed milk foam",
+  "longDescription": "A cappuccino is an espresso-based coffee drink that originated in Italy, and is traditionally prepared with steamed milk foam (microfoam).  Variations of the drink involve the use of cream instead of milk, using non-dairy milks, and flavoring with cinnamon or chocolate powder. It is typically smaller in volume than a caffè latte, with a thicker layer of microfoam.",
+  "prices": {
+    "smallSize": 2,
+    "mediumSize": 2.4,
+    "bigSize": 2.8
+  },
+  "image": "cappuccino.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884cb"
+  },
+  "name": "Latte",
+  "shortDescription": "It's a coffee drink made with espresso and steamed milk",
+  "longDescription": "Caffe latte is a coffee drink made with espresso and steamed milk.  Variants include the chocolate-flavored mocha or replacing the coffee with another drink base such as masala chai (spiced Indian tea), mate, matcha, turmeric or rooibos; other types of milk, such as soy milk or almond milk, are also used. ",
+  "prices": {
+    "smallSize": 2,
+    "mediumSize": 2.4,
+    "bigSize": 2.8
+  },
+  "image": "latte.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884cc"
+  },
+  "name": "Flat White",
+  "shortDescription": "It's a coffee drink consisting of espresso with microfoam",
+  "longDescription": "A flat white is a coffee drink consisting of espresso with microfoam (steamed milk with small, fine bubbles and a glossy or velvety consistency). It is comparable to a latte, but smaller in volume and with less microfoam, therefore having a higher proportion of coffee to milk, and milk that is more velvety in consistency – allowing the espresso to dominate the flavour, while being supported by the milk. ",
+  "prices": {
+    "smallSize": 2.35,
+    "mediumSize": null,
+    "bigSize": null
+  },
+  "image": "flat-white.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884cd"
+  },
+  "name": "Ristretto",
+  "shortDescription": "It's a \"short shot\" of a more concentrated espresso coffee",
+  "longDescription": "Ristretto is a \"short shot\" (30 ml from a double basket) of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind (also in from 20 to 30 seconds) using half as much water. A normal short shot might look like a Ristretto, but in reality, would only be a weaker, more diluted, shot. ",
+  "prices": {
+    "smallSize": 1.85,
+    "mediumSize": null,
+    "bigSize": null
+  },
+  "image": "ristretto.png",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f3240039cf1b670d43884ce"
+  },
+  "name": "Mocha",
+  "shortDescription": "It's a coffee drink based on espresso and hot milk with added chocolate flavouring and sweetener",
+  "longDescription": "A caffè mocha, also called mocaccino, is a chocolate-flavoured variant of a caffè latte. Other commonly used spellings are mochaccino and also mochachino. The name is derived from the city of Mocha, Yemen, which was one of the centers of early coffee trade.",
+  "prices": {
+    "smallSize": 2.1,
+    "mediumSize": 2.5,
+    "bigSize": 2.99
+  },
+  "image": "mocha.png",
+  "__v": 0
+}]

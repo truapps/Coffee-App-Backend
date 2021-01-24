@@ -35,4 +35,7 @@ All information about install, setup and using you can fing in [our wiki](https:
 
 Coffee App is MIT licensed, as found in the [LICENSE][l] file.
 
+2020 © [BobMakhlin][R]
+
 [l]: https://github.com/truapps/Coffee-App-Backend/blob/master/LICENSE
+[R]: https://github.com/BobMakhlin
